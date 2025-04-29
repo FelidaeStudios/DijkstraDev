@@ -1,3 +1,3 @@
 # DijkstraDev
  
-https://kennerm1.github.io/DijkstraDev/
+https://felidaestudios.github.io/DijkstraDev/
